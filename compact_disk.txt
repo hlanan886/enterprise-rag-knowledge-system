@@ -1,0 +1,3 @@
+select vdisk file="D:\Docker\DockerData\disk\docker_data.vhdx"
+compact vdisk
+exit
